@@ -1,0 +1,8 @@
+ServerIP 192.168.30.128
+Port 8888
+ThreadpoolCap  4
+TaskQueSize 5
+cnDictPath ../data/cnDict.dat
+enDictPath ../data/enDict.dat
+cachePath ../data/Cache
+
